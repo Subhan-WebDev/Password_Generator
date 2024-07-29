@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }  
+.table-Data{
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+}
+.table-head-data{
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+}
+.table-button:hover{
+    /* background-color: #0f740f; */
+    /* color: white; */
+    cursor: pointer;
+}
+.links{
+    width: 100%;
+    display: block;
+}
+.row:hover .password-input{
+    background-color: #97e8c5;
+}
+.row:hover {
+    background-color: #97e8c5;
+}
+.password-input{
+    cursor: pointer;
+    /* font-size: 20px; */
+}
